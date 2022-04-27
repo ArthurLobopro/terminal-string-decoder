@@ -1,13 +1,21 @@
 {
   "name": "terminal-encoding",
   "version": "1.0.0",
-  "description": "",
   "main": "src/index.js",
-  
   "keywords": [],
   "author": "Arthur Lobo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@vscode/iconv-lite-umd": "^0.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurLobopro/terminal-string-decoder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArthurLobopro/terminal-string-decoder/issues"
+  },
+  "homepage": "https://github.com/ArthurLobopro/terminal-string-decoder#readme",
+  "description": ""
 }
