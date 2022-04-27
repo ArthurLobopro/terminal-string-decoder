@@ -8,6 +8,9 @@
   "dependencies": {
     "@vscode/iconv-lite-umd": "^0.7.0"
   },
+  "files": [
+    "src"
+  ],
   "devDependencies": {},
   "repository": {
     "type": "git",
